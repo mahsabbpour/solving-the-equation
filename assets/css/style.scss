@@ -1,0 +1,72 @@
+$color: rgb(47, 91, 160);
+
+body {
+    background: #E0EAFC !important;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #dfe8f5, #b1caf4) !important;
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #afb5bd, #dedfe1) !important;
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    font-family: 'Dancing Script', cursive !important;
+
+    button , h1 {
+        font-family: 'El Messiri', sans-serif !important;
+
+    }
+    h1{
+        margin-right: 100px;
+color:  rgb(47, 91, 160)  !important;
+
+    }
+
+
+}
+
+main {
+    span{
+        font-weight: bold;
+    }
+
+    height: 100vh !important;
+    .contain{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50% , -50%);
+       
+    }
+
+
+
+    input {
+
+        color: rgb(47, 91, 160) !important;
+        border-width: 1px;
+        border-style: hidden;
+        border-bottom: 1px solid rgb(47, 91, 160);
+        outline: none !important;
+        text-align: center;
+    }
+    .line{
+        height: 1px;
+        width: 85%;
+        background: rgb(47, 91, 160);
+    }
+
+    button {
+        background: rgb(47, 91, 160) !important;
+    }
+
+
+
+
+}
+.style{
+height: 45px;
+background: white;
+box-shadow: 1px 1px 5px #b1caf4;
+color:  rgb(47, 91, 160)  !important;
+font-weight: bold;
+
+}

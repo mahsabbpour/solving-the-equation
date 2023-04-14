@@ -1,0 +1,52 @@
+body {
+  background: #E0EAFC !important;
+  /* fallback for old browsers */
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #afb5bd, #dedfe1) !important;
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: "Dancing Script", cursive !important;
+}
+body button, body h1 {
+  font-family: "El Messiri", sans-serif !important;
+}
+body h1 {
+  margin-right: 100px;
+  color: rgb(47, 91, 160) !important;
+}
+
+main {
+  height: 100vh !important;
+}
+main span {
+  font-weight: bold;
+}
+main .contain {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+main input {
+  color: rgb(47, 91, 160) !important;
+  border-width: 1px;
+  border-style: hidden;
+  border-bottom: 1px solid rgb(47, 91, 160);
+  outline: none !important;
+  text-align: center;
+}
+main .line {
+  height: 1px;
+  width: 85%;
+  background: rgb(47, 91, 160);
+}
+main button {
+  background: rgb(47, 91, 160) !important;
+}
+
+.style {
+  height: 45px;
+  background: white;
+  box-shadow:inset 1px 1px 5px #a2b6d8;
+  color: rgb(47, 91, 160) !important;
+  font-weight: bold;
+}/*# sourceMappingURL=style.css.map */
