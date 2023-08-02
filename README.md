@@ -1,6 +1,6 @@
 # solving-the-equation
 
-- [Demo Project]( )
+- [Demo Project]( https://mahsabbpour.github.io/solving-the-equation/ )
 
 - Developed by Mahsa Babapour
 
