@@ -6,7 +6,7 @@
 
 - Created - 2023
 
-- Technologies Used - Html , css
+- Technologies Used - Html , scss , javascript
 
 - Role - Frontend
 
